@@ -76,13 +76,13 @@ body{
     align-items: center;
     margin: 20px 0;
     color: var(--dark-Cyan);
-    font-size: 35px;
+    font-size: 25px;
     font-family: 'Fraunces', serif;
     margin-bottom: 30px;
 }
 
 .product-price > span{
-    font-size: 15px;
+    font-size: 12px;
     margin-left: 20px;
     text-decoration: line-through;
     color: var(--dark-grayish-blue);
