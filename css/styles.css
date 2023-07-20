@@ -26,7 +26,7 @@ body{
 
 .product{
     display: flex;
-    width: 40%;
+    width: 45%;
     border-radius: 10px;
 }
 
@@ -48,7 +48,7 @@ body{
 .product-right{
     width: 50%;
     background-color: var(--white);
-    padding: 30px 35px;
+    padding: 32px;
     border-radius: 0px 10px 10px 0;
 }
 
@@ -62,12 +62,13 @@ body{
     font-family: 'Fraunces', serif;
     font-weight: 700;
     color: var(--very-dark-blue);
-    margin: 20px 0;
+    margin: 15px 0;
 }
 
 .product-text{
     font-size: 15px;
     color: var(--dark-grayish-blue);
+    margin-top: 25px;
 }
 
 .product-price{
@@ -75,13 +76,14 @@ body{
     align-items: center;
     margin: 20px 0;
     color: var(--dark-Cyan);
-    font-size: 30px;
+    font-size: 35px;
     font-family: 'Fraunces', serif;
+    margin-bottom: 30px;
 }
 
 .product-price > span{
     font-size: 15px;
-    margin-left: 15px;
+    margin-left: 20px;
     text-decoration: line-through;
     color: var(--dark-grayish-blue);
 }
@@ -100,6 +102,7 @@ button{
     align-items: center;
     gap: 10px;
     justify-content: center;
+    margin-top: 35px;
 }
 
 button:active{
