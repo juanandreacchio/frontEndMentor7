@@ -61,7 +61,6 @@ body{
 .product-title{
     font-family: 'Fraunces', serif;
     font-weight: 700;
-    font-size: 35px;
     color: var(--very-dark-blue);
     margin: 20px 0;
 }
