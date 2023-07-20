@@ -26,7 +26,7 @@ body{
 
 .product{
     display: flex;
-    width: 45%;
+    width: 40%;
     border-radius: 10px;
 }
 
@@ -48,7 +48,7 @@ body{
 .product-right{
     width: 50%;
     background-color: var(--white);
-    padding: 32px;
+    padding: 41px;
     border-radius: 0px 10px 10px 0;
 }
 
